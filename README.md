@@ -1,7 +1,6 @@
 - 👋 Hi, it's Mohamed 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me MNASR10924@GMAIL.COM 
+- 📫 How to reach me MNASR10924@gmail.com
 
 <!---
 MoNasr0/MoNasr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

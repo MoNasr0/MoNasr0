@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoNasr0&show_icons=true&locale=en&layout=compact" alt="MoNasr0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoNasr0&show_icons=true&locale=en" alt="MoNasr0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoNasr0&" alt="MoNasr0" /></p>

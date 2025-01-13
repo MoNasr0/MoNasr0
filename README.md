@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
-<h3 align="center">A Data scientist and ML Engineer</h3>
+<h3 align="center">A Data science Engineer</h3>
  <img src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.webp" align=right alt="mohamednasr" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahseyam01&label=Profile%20views&color=0e75b6&style=flat" alt="MoNasr0" /> </p>

@@ -1,9 +1,9 @@
 # Hello World! 🌍 I'm Mohamed Nasr 👋🏼
-A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making and have a passion for transforming data into actionable insights. Let's unlock the potential of data and machine learning together!
+A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making. Let's unlock the potential of data and machine learning together!
 
-- 🌱 Currently diving deep into **Data Science/Analysis** and **Machine Learning Engineering**.
-- 📚 Actively learning from platforms like Coursera, Udacity, Youtube, LeetCode and GitHub repositories.
-- 🔧 Exploring advanced analytics, AI tools, and automation techniques.
+- 🌱 Currently diving deep into **Data Science** and **Machine Learning Engineering**.
+- 📚 Actively learning from platforms like Coursera, Udacity, and GitHub repositories.
+- 🔧 Exploring AI models, automation, and real-world applications.
 ---
 
 # 💻 Tech Stack
@@ -22,21 +22,13 @@ A **passionate Data Science Engineer** focused on utilizing data to drive insigh
 # 🚀 Featured Projects
 Here are some of my exciting projects:
 
-- **[Machine Learning Model for Predicting House Prices](https://github.com/MoNasr0/house-price-prediction)**  
+- **[DEPI Graduation Project](https://github.com/MoNasr0/Space_Y_SHR1_AIS_3_M1e_Team_4)**  
   *Technologies: Python, Scikit-learn*  
-  - Developed a machine learning model to predict house prices with 92% accuracy.
+  - Developed a machine learning model to predict Space rocket which can be reused.
   
-- **[Weather Forecasting System](https://github.com/MoNasr0/weather-forecasting)**  
-  *Technologies: Python, Flask*  
-  - Created a web-based application that predicts weather using historical data and machine learning algorithms.
-
-- **[Data Analysis on COVID-19 Data](https://github.com/MoNasr0/covid19-data-analysis)**  
-  *Technologies: Python, Pandas*  
-  - Analyzed COVID-19 data to visualize trends and make predictions on the spread.
-
-- **[Image Recognition with Convolutional Neural Networks](https://github.com/MoNasr0/image-recognition)**  
-  *Technologies: Python, TensorFlow*  
-  - Built a CNN model to classify images with high accuracy.
+- **[Deep Learning model detecting crashes and accidents on high-ways](https://github.com/MoNasr0/Car-Damage-Detection-Model)**  
+  *Technologies: Python, Scikit-learn, CV*  
+  - Developed a Deeplearning model to scan the road and give an alarm if there is any accident on high-ways.
 
 🔍 **Check out more of my projects in [my repositories](https://github.com/MoNasr0)!**
 
@@ -47,9 +39,8 @@ Here are some of the certifications I've earned:
 
 - **Data Science Professional Certificate (Coursera)**
 - **Machine Learning Specialization (Coursera)**
-- **Google Cloud Professional Data Engineer**
+- **Data Analsis-PowerBI Certificate (ITI)**
 - **HackerRank: Data Structures & Algorithms**
-- **LeetCode: SQL 50 Probelm challenge**
 
 🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/mohamed-nasr-90612b1a5/)!**
 
@@ -60,5 +51,3 @@ Here are some of the certifications I've earned:
 - **LinkedIn**: [Mohamed Nasr](https://www.linkedin.com/in/mohamed-nasr-90612b1a5/)
 - **GitHub**: [MoNasr0](https://github.com/MoNasr0)
 - **Facebook**: [Mohamed Nasr](https://m.facebook.com/profile.php/?id=100009811544757)
-
----

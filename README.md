@@ -1,9 +1,9 @@
 # Hello World! 🌍 I'm Mohamed Nasr 👋🏼
-A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making. Let's unlock the potential of data and machine learning together!
+A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making and have a passion for transforming data into actionable insights. Let's unlock the potential of data and machine learning together!
 
-- 🌱 Currently diving deep into **Data Science** and **Machine Learning Engineering**.
-- 📚 Actively learning from platforms like Coursera, Udacity, and GitHub repositories.
-- 🔧 Exploring AI models, automation, and real-world applications.
+- 🌱 Currently diving deep into **Data Science/Analysis** and **Machine Learning Engineering**.
+- 📚 Actively learning from platforms like Coursera, Udacity, Youtube, LeetCode and GitHub repositories.
+- 🔧 Exploring advanced analytics, AI tools, and automation techniques.
 ---
 
 # 💻 Tech Stack
@@ -49,6 +49,7 @@ Here are some of the certifications I've earned:
 - **Machine Learning Specialization (Coursera)**
 - **Google Cloud Professional Data Engineer**
 - **HackerRank: Data Structures & Algorithms**
+- **LeetCode: SQL 50 Probelm challenge**
 
 🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/mohamed-nasr-90612b1a5/)!**
 
@@ -61,9 +62,3 @@ Here are some of the certifications I've earned:
 - **Facebook**: [Mohamed Nasr](https://m.facebook.com/profile.php/?id=100009811544757)
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-nasr-90612b1a5" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-nasr-90612b1a5" height="30" width="40" /></a>
-<a href="https://m.facebook.com/profile.php/?id=100009811544757" title="Facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php/?id=100009811544757" height="30" width="40" /></a>
-</p>

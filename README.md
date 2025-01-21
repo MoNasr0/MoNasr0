@@ -2,8 +2,8 @@
 A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making. Let's unlock the potential of data and machine learning together!
 
 - 🌱 Currently diving deep into **Data Science** and **Machine Learning Engineering**.
-- 📚 Actively learning from platforms like Coursera, Udacity, and GitHub repositories.
-- 🔧 Exploring AI models, automation, and real-world applications.
+- 📚 Actively learning from platforms like Coursera, Udacity, Youtube, LeetCode and GitHub repositories.
+- 🔧 Exploring advanced analytics, AI tools, and automation techniques.
 ---
 
 # 💻 Tech Stack

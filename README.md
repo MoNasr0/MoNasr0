@@ -10,11 +10,14 @@ A **passionate Data Science Engineer** focused on utilizing data to drive insigh
 
 # 💻 Tech Stack
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
 ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 

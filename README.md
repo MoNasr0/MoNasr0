@@ -4,19 +4,16 @@ A **passionate Data Science Engineer** focused on utilizing data to drive insigh
 - 🌱 Currently diving deep into **Data Science** and **Machine Learning Engineering**.
 - 📚 Actively learning from platforms like Coursera, Udacity, and GitHub repositories.
 - 🔧 Exploring AI models, automation, and real-world applications.
-- ✨ Fluent in **Arabic** and **English**.
-
 ---
 
 # 💻 Tech Stack
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![Python](https://img.shields.io/badge/PYTHON-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Arduino](https://img.shields.io/badge/ARDUINO-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---

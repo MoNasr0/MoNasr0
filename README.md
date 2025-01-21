@@ -15,6 +15,7 @@ A **passionate Data Science Engineer** focused on utilizing data to drive insigh
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 

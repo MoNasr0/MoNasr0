@@ -49,5 +49,5 @@ Here are some of the certifications I've earned:
 # 📫 Contact Me
 - **Email**: [mnasr10924@gmail.com](mailto:mnasr10924@gmail.com)
 - **LinkedIn**: [Mohamed Nasr](https://www.linkedin.com/in/mohamed-nasr-90612b1a5/)
-- **GitHub**: [MoNasr0](https://github.com/Mohamed-Nasr24)
+- **GitHub**: [Mohamed-Nasr24](https://github.com/Mohamed-Nasr24)
 - **Facebook**: [Mohamed Nasr](https://m.facebook.com/profile.php/?id=100009811544757)

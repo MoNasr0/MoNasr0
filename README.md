@@ -1,7 +1,7 @@
 # Hello World! 🌍 I'm Mohamed Nasr 👋🏼
 A **passionate Data Science Engineer** focused on utilizing data to drive insightful decision-making. Let's unlock the potential of data and machine learning together!
 
-- 🌱 Currently diving deep into **Data Science/Analsis** and **Machine Learning Engineering**.
+- 🌱 Currently diving deep into **Data Science/Analysis** and **Machine Learning Engineering**.
 - 📚 Actively learning from platforms like Coursera, Udacity, Youtube, LeetCode and GitHub repositories.
 - 🔧 Exploring advanced analytics, AI tools, and automation techniques.
 ---
